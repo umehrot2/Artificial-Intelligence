@@ -1,5 +1,7 @@
 # Constraint Satisfaction Problem and Minimax
 
+http://web.engr.illinois.edu/~slazebni/spring15/assignment2.html
+
 Scheduling Constraint Satisfaction Problem
 
 Minimax Search
